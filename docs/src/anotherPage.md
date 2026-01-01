@@ -1,8 +1,6 @@
-# The MyAwesomePackage Module
+# The CFSjul Module
 
-```@docs
-CFSjul
-```
+
 
 ## Module Index
 

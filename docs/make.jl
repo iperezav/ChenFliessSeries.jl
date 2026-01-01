@@ -15,6 +15,6 @@ makedocs(
 # See "Hosting Documentation" and deploydocs() in the Documenter manual
 # for more information.
 deploydocs(
-    repo = "git@github.com:iperezav/CFSjul.git",
+    repo = "https://github.com/iperezav/CFSjul.git",
     devbranch = "main"
 )
