@@ -1,6 +1,8 @@
 # The CFSjul Module
 
-
+```@docs
+CFSjul
+```
 
 ## Module Index
 
