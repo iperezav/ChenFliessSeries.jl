@@ -38,11 +38,16 @@ ChenFliessSeries.jl is used for:
 Currently, `ChenFliessSeries.jl` is guaranteed to run on releases of Julia 1.12.3 onwards.
 To install the current release:
 
+Using the Julia REPL's Pkg mode
 ```shell
 julia> ]
 pkg> add ChenFliessSeries
 ```
-
+Or using the Pkg module in the standard REPL
+```shell
+julia> using Pkg
+julia> Pkg.add(“ChenFliessSeries”)
+```
 
 # Getting Started
 
