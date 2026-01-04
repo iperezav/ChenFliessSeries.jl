@@ -195,8 +195,8 @@ All feedback is welcome.
 
 # Asking for help
 Please reach out if you have any questions:
-1. [Github CFSjul discussions](https://github.com/iperezav/ChenFliessSeries.jl/discussions/).
-2. [Github CFSjul issues](https://github.com/iperezav/ChenFliessSeries.jl/issues).
+1. [Github ChenFliessSeries.jl discussions](https://github.com/iperezav/ChenFliessSeries.jl/discussions/).
+2. [Github ChenFliessSeries.jl issues](https://github.com/iperezav/ChenFliessSeries.jl/issues).
 
 
 # License
