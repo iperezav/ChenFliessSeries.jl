@@ -24,8 +24,6 @@ ChenFliessSeries.jl is a Julia library that contains the following functions:
 | ---- | --- |
 | [**iter_int**](https://github.com/iperezav/ChenFliessSeries.jl/blob/main/src/ChenFliessSeries.jl) | A function for the numerical computation of a list of iterated integrals |
 | [**iter_lie**](https://github.com/iperezav/ChenFliessSeries.jl/blob/main/src/ChenFliessSeries.jl) | A function for the analytical computation of a list of Lie derivatives |
-| [**single_iter_int**](https://github.com/iperezav/ChenFliessSeries.jl/blob/main/src/ChenFliessSeries.jl) | A function for the numerical computation of a single iterated integral |
-| [**single_iter_lie**](https://github.com/iperezav/ChenFliessSeries.jl/blob/main/src/ChenFliessSeries.jl) | A function for the analytical computation of a single Lie derivative |
 | [**chen_fliess_output**](https://github.com/iperezav/ChenFliessSeries.jl/blob/main/src/ChenFliessSeries.jl) | A function for the analytical computation of a single Lie derivative |
 
 ChenFliessSeries.jl is used for:
