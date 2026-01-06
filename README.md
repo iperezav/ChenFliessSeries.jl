@@ -179,12 +179,12 @@ plot!(grid = true)
 
 <img src="https://raw.githubusercontent.com/iperezav/ChenFliessSeries.jl/main/assets/Chen-Fliess-series_quadrotor.png" alt="Chen-Fliess, Ivan Perez Avellaneda" />
 
-For more examples, see the [CFSjul demos](https://github.com/iperezav/ChenFliessSeries.jl/tree/main/examples/)
+For more examples, see the [ChenFliessFliess.jl demos](https://github.com/iperezav/ChenFliessSeries.jl/tree/main/examples/)
 
 
 # Resources
 
-- [**Documentation**](https://cfsjul-docs.readthedocs.io/en/latest/)
+- [**Documentation**](https://chenfliessseriesjl-docs.readthedocs.io/en/latest/)
 - [**Issue tracking**](https://github.com/iperezav/ChenFliessSeries.jl/issues)
 
 
@@ -201,7 +201,7 @@ Please reach out if you have any questions:
 
 # License
 
-CFSjul is open-source and released under the [MIT License](LICENSE).
+ChenFliessSeries.jl is open-source and released under the [MIT License](LICENSE).
 
 
 # BibTeX
